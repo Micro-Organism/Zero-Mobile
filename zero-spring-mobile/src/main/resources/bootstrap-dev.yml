@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: zero-spring-mobile
+spring.mobile.devicedelegatingviewresolver.enabled: true
+spring.freemarker.template-loader-path: classpath:/templates
+spring.freemarker.suffix: .ftl
